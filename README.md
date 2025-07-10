@@ -1,10 +1,3 @@
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
-```
-
 **Installation**
 
 Install the project dependencies using npm:
